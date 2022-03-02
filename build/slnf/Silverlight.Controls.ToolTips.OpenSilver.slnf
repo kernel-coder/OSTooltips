@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\src\\Silverlight.Controls.ToolTips.OpenSilver.sln",
+    "projects": [
+      "Silverlight.Controls.ToolTips.OpenSilver\\Silverlight.Controls.ToolTips.OpenSilver.csproj"
+	]
+  }
+}

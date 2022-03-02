@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$PackageId$</id>
+    <version>$PackageVersion$</version>
+    <title>Silverlight.Controls.ToolTips for OpenSilver</title>
+    <authors>Userware</authors>
+    <description>Silverlight.Controls.ToolTips for Silverlight compiled with OpenSilver</description>
+    <projectUrl>https://www.opensilver.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright (c) 2022, Userware. All rights reserved.</copyright>
+    <dependencies>
+      <group targetFramework="netstandard2.0">
+        <dependency id="OpenSilver" version="1.0.0-private-2022-03-01-100352-a5e386dd" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="../../src/Silverlight.Controls.ToolTips.OpenSilver/bin/$Configuration$/netstandard2.0/Silverlight.Controls.ToolTips.dll" target="lib/netstandard2.0/Silverlight.Controls.ToolTips.dll" />
+  </files>
+</package>
