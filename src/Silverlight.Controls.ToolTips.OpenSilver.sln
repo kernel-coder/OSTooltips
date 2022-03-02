@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Silverlight.Controls.ToolTips.OpenSilver", "Silverlight.Controls.ToolTips.OpenSilver\Silverlight.Controls.ToolTips.OpenSilver.csproj", "{2C7D8465-547F-47D4-9370-FE9820599A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7D8465-547F-47D4-9370-FE9820599A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7D8465-547F-47D4-9370-FE9820599A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7D8465-547F-47D4-9370-FE9820599A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7D8465-547F-47D4-9370-FE9820599A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7395D7CC-C251-4BAA-A773-DB1B1B555931}
+	EndGlobalSection
+EndGlobal
